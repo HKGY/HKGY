@@ -1,8 +1,9 @@
 ### 👋 Hi there
-* You can call me Hana.
+* You can call me Hana, HANA Advanced Network Architecture.
 * INFP-T.
 * Language:a bit of zh-hant/s, en-us or ja-jp.
 * Learning coding from college.
+* Noob Linux User.
 
 ### 😣 How I waste time
 * Sleeping all the day.
@@ -10,8 +11,9 @@
 
 ### 🛠️ Working Environment
 * Android 10
-* Ubuntu 21.10
 * Arch Linux
+
+### 咩~~
 
 
 
