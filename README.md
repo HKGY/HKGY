@@ -2,7 +2,8 @@
 * You can call me Hana, HANA Advanced Network Architecture.
 * INFP-T.
 * Language:a bit of zh-hant/s, en-us or ja-jp.
-* Learning coding from college.
+* Learning coding by myself.
+* Fake CTFer.
 * Noob Linux User.
 
 ### 😣 How I waste time
