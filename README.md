@@ -1,24 +1,32 @@
-### 👋 Hi there
-* You can call me Hana, HANA Advanced Network Architecture.
-* INFP-T.
-* Language:a bit of zh-hant/s, en-us or ja-jp.
-* Learning coding by myself.
-* Fake CTFer.
-* Noob Linux User.
+### 🎀 Ribbon
 
-### 😣 How I waste time
-* Sleeping all the day.
-* Wirting some useless and meaningless codes and deleting them then.
+I like cute things like ribbon.
+> Ingress Recursion.
 
-### 🛠️ Working Environment
-* Android 10
-* Arch Linux
+### 🌸 Flowey
 
-### 咩~~
+My name, as known as Hana, HANA Abnormal Network Architecture.
+> Howdy! I'm FLOWEY. FLOWEY the FLOWER!
 
+### 💻 Laptop
 
+I work for isrc-cas now.
+> By the way I use...
 
+### 🕯️ Candle
 
+In memory of those beloveds.
+> We shall meet in the place where there is no darkness.
+
+### ❤️ Determination
+
+Try to love everything.
+> You are filled with DETERMINATION.
+
+### 🐑 Ewe
+
+A cute female sheep, also my dear mother @YukariChiba .
+> 咩～
 
 <!--
 **HKokoro/HKokoro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
