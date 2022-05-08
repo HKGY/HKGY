@@ -25,7 +25,7 @@ Try to love everything.
 
 ### 🐑 Ewe
 
-A cute female sheep, also my dear mother @YukariChiba .
+A cute female sheep, also my dear mother [YukariChiba](https://GitHub.com/YukariChiba) .
 > 咩～
 
 <!--
