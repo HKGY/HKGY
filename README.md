@@ -8,15 +8,11 @@ My name, as known as Hana, HANA Abnormal Network Architecture.
 
 ### 🕯️ Candle
 
-In memory of those beloveds.
+In memory of those beloved.
 
 ### ❤️ Determination
 
 Try to love everything.
-
-### 🐑 Ewe
-
-A cute female sheep, also my dear mother [YukariChiba](https://GitHub.com/YukariChiba) .
 
 <p>
 
