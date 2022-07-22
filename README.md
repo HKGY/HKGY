@@ -1,14 +1,6 @@
-### 🎀 Ribbon
-
-I like cute things like ribbon.
-
 ### 🌸 Flowey
 
 My name, as known as Hana, HANA Abnormal Network Architecture.
-
-### 🕯️ Candle
-
-In memory of those beloved.
 
 ### ❤️ Determination
 
